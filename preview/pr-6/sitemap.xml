@@ -21,6 +21,10 @@
          <lastmod>2026-02-03</lastmod>
     </url>
     <url>
+         <loc>https://geoserver.org/geoserver-cloud/preview/pr-6/configuration/migration-2.28-to-3.0/</loc>
+         <lastmod>2026-02-03</lastmod>
+    </url>
+    <url>
          <loc>https://geoserver.org/geoserver-cloud/preview/pr-6/deploy/</loc>
          <lastmod>2026-02-03</lastmod>
     </url>
@@ -42,6 +46,14 @@
     </url>
     <url>
          <loc>https://geoserver.org/geoserver-cloud/preview/pr-6/developer-guide/coding_standards/</loc>
+         <lastmod>2026-02-03</lastmod>
+    </url>
+    <url>
+         <loc>https://geoserver.org/geoserver-cloud/preview/pr-6/developer-guide/docker-images/</loc>
+         <lastmod>2026-02-03</lastmod>
+    </url>
+    <url>
+         <loc>https://geoserver.org/geoserver-cloud/preview/pr-6/developer-guide/logging/</loc>
          <lastmod>2026-02-03</lastmod>
     </url>
     <url>
